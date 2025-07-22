@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Anshika</h1>
 
-<!--
-**22RR048/22RR048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  CSE Undergrad @ VJCET (KTU)<br>
+  Exploring Java, Python, and C with intention<br>
+  Focused on learning the fundamentals — one step at a time
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- 3rd semester BTech student passionate about computer science  
+- Interested in the logic behind systems, not just syntax  
+- Trying to learn with depth — not just speed  
+- Believer in clean code, good questions, and quiet consistency  
+
+---
+
+### 📚 Currently Learning
+- Java (OOP concepts, clean structure)  
+- Data Structures & Algorithms  
+- Digital design, logic circuits, and sustainable computing  
+- Balancing productivity with peace of mind  
+
+---
+
+### 💬 Let's Connect
+- 📫 Email: anshikasatish2020@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/anshikasatish
+
+---
+
+<p align="center"><i>"Still learning. Still curious. Still showing up."</i></p>
